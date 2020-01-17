@@ -1,4 +1,4 @@
-repository: gdecider/gdecider.github.io
+repository: invaderlab/invaderlab.github.io
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
@@ -12,7 +12,7 @@ site_title: Правила ведения проектов
 company_name:
 # this appears in the footer
 
-github_editme_path: gdecider/gdecider.github.io/blob/master/
+github_editme_path: invaderlab/invaderlab.github.io/blob/master/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 disqus_shortname: idrbwjekyll
@@ -31,7 +31,7 @@ exclude:
 
 feedback_subject_line: Правила ведения проектов
 
-feedback_email: gdecider@gmail.com
+feedback_email: invaderlab@gmail.com
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
@@ -115,6 +115,6 @@ description: "Intended as a documentation theme based on Jekyll for technical wr
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
-url: https://gdecider.github.io/
+url: https://invaderlab.github.io/
 
 theme: jekyll-theme-minimal
