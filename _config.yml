@@ -12,7 +12,7 @@ site_title: Правила ведения проектов
 company_name:
 # this appears in the footer
 
-github_editme_path: gdecider/gdecider.github.io/blob/master/
+github_editme_path: invaderlab/invaderlab.github.io/blob/master/
 # if you're using Github, provide the basepath to the branch you've created for reviews, following the sample here. if not, leave this value blank.
 
 disqus_shortname: idrbwjekyll
@@ -31,7 +31,7 @@ exclude:
 
 feedback_subject_line: Правила ведения проектов
 
-feedback_email: gdecider@gmail.com
+feedback_email: invaderlab@gmail.com
 # used as a contact email for the Feedback link in the top navigation bar
 
 # feedback_disable: true
@@ -117,4 +117,5 @@ description: "Intended as a documentation theme based on Jekyll for technical wr
 # needed for sitemap.xml file only
 url: https://invaderlab.github.io/
 
-theme: jekyll-theme-cayman
+
+theme: jekyll-theme-minimal
