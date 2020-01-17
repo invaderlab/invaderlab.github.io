@@ -117,4 +117,4 @@ description: "Intended as a documentation theme based on Jekyll for technical wr
 # needed for sitemap.xml file only
 url: https://gdecider.github.io/
 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-cayman
