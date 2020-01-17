@@ -1,4 +1,4 @@
-repository: gdecider/gdecider.github.io
+repository: invaderlab/invaderlab.github.io
 
 output: web
 # this property is useful for conditional filtering of content that is separate from the PDF.
@@ -115,6 +115,6 @@ description: "Intended as a documentation theme based on Jekyll for technical wr
 # the description is used in the feed.xml file
 
 # needed for sitemap.xml file only
-url: https://gdecider.github.io/
+url: https://invaderlab.github.io/
 
 theme: jekyll-theme-cayman
